@@ -81,7 +81,7 @@ header .menu-background {
 }
 
 section.title {
-    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0)) , url('/img/skin-neve.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0)) , url('/img/skin.jpg');
     background-repeat: no-repeat;
     background-size: cover; 
     background-attachment: fixed;   
@@ -139,15 +139,15 @@ section.skin .imagem {
 }
 
 .img-1 {
-    background-image: url('/img/menina-skin.jpg');
+    background-image: url('/img/menina.jpg');
 }
 
 .img-2 {
-    background-image: url('/img/men-2.jpg');
+    background-image: url('/img/men.jpg');
 }
 
 .img-3 {
-    background-image: url('/img/men-wowen-3.jpg');
+    background-image: url('/img/menwowen.jpg');
 }
 
 .imagem h2 {
