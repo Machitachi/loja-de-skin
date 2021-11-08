@@ -81,7 +81,7 @@ header .menu-background {
 }
 
 section.title {
-    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0)) , url('/front_end/aula-20-css-html/img/skin-neve.webp');
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0)) , url('/img/skin-neve.jpg');
     background-repeat: no-repeat;
     background-size: cover; 
     background-attachment: fixed;   
@@ -139,15 +139,15 @@ section.skin .imagem {
 }
 
 .img-1 {
-    background-image: url('/front_end/aula-20-css-html/img/menina-skin.webp');
+    background-image: url('/img/menina-skin.jpg');
 }
 
 .img-2 {
-    background-image: url('/front_end/aula-20-css-html/img/men-2.webp');
+    background-image: url('/img/men-2.jpg');
 }
 
 .img-3 {
-    background-image: url('/front_end/aula-20-css-html/img/men-wowen-3.webp');
+    background-image: url('/img/men-wowen-3.jpg');
 }
 
 .imagem h2 {
@@ -159,7 +159,7 @@ section.skin .imagem {
 }
 
 section.title2 {
-    background-image: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0)) ,  url('/front_end/aula-20-css-html/img/neve.webp');
+    background-image: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0)) ,  url('/img/neve.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;  
